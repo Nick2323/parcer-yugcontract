@@ -16,6 +16,7 @@
 // TODO move them as class constants into phpQuery
 define('DOMDOCUMENT', 'DOMDocument');
 define('DOMELEMENT', 'DOMElement');
+
 define('DOMNODELIST', 'DOMNodeList');
 define('DOMNODE', 'DOMNode');
 require_once(dirname(__FILE__).'/phpQuery/DOMEvent.php');
