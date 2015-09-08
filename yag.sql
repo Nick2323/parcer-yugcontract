@@ -10,6 +10,7 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
+
 -- Дамп структуры для таблица yug.yug_attributes
 CREATE TABLE IF NOT EXISTS `yug_attributes` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
