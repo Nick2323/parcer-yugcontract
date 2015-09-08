@@ -26,6 +26,8 @@ require_once(dirname(__FILE__).'/phpQuery/phpQueryObject.php');
 require_once(dirname(__FILE__).'/phpQuery/compat/mbstring.php');
 /**
  * Static namespace for phpQuery functions.
+
+ *
  *
  * @author Tobiasz Cudnik <tobiasz.cudnik/gmail.com>
  * @package phpQuery
